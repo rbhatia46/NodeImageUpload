@@ -1,0 +1,19 @@
+{
+  "name": "nodeimageupload",
+  "version": "1.0.0",
+  "description": "Image Upload in Node using Multer ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rahul Bhatia",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.3"
+  }
+}
